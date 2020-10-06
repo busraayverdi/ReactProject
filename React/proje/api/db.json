@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Büşra Ayverdi",
+      "salary": "2000",
+      "departman": "Bilişim"
+    },
+    {
+      "id": "unique-2",
+      "name": "Ezgi Aslan",
+      "salary": "3000",
+      "departman": "Bilişim"
+    },
+    {
+      "name": "Büşra ",
+      "salary": "30000",
+      "departman": "Giyim",
+      "id": "G7kSH4V"
+    }
+  ]
+}
